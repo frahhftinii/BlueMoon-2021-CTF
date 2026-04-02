@@ -116,4 +116,4 @@ Several services were discovered including FTP, SSH, and HTTP. Directory enumera
 
 Although steganography techniques were applied, the hidden data could not be extracted due to unknown passphrase.
 
-This exercise highlights the importance of enumeration and analysis in penetration testing.****
+This exercise highlights the importance of enumeration and analysis in penetration testing.

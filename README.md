@@ -21,3 +21,4 @@ This report documents the penetration testing process on the BlueMoon: 2021 mach
 ### 1. Host Discovery
 ```bash
 nmap -sn 192.168.1.0/24
+
